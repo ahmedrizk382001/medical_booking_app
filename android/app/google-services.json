@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257777082574",
+    "project_id": "clinic-booking-app-627f3",
+    "storage_bucket": "clinic-booking-app-627f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257777082574:android:e28c6d1167f0e3b7c7309f",
+        "android_client_info": {
+          "package_name": "com.example.clinic_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dLvFBXDsw0na5tmLq2MGjmdawRlMB1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
