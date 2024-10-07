@@ -1,16 +1,10 @@
-# clinic_booking_app
+# MediBook - Medical Booking App
+MediBook is a Flutter application that simplifies booking and managing doctor appointments. The app features Firebase as the backend for authentication, Firestore for data management, and Firebase Storage for storing profile images. Built using the MVVM architecture and Cubit for state management, MediBook offers a seamless experience for users with the following key features:
 
-A new Flutter project.
+- Home page with search, services, today’s appointments, and a list of all doctors.
+- Booking screen for managing upcoming and completed appointments.
+- Favorites screen to save preferred doctors.
+- Profile screen for users to update their data and profile image.
+- View doctor profiles and book or cancel appointments.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All data is fetched and managed using Firebase.
